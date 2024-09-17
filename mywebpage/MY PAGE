@@ -1,0 +1,152 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Дарья Зверева - инфо и контакты</title>
+	 	<meta charset="utf-8">
+	 	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="Личная страница и контакты">
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	</head>
+		<body>
+
+		<nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+			<div class="container"> 
+				<div class="navbar-header"> 
+					<a href="https://ling.hse.ru/" class="navbar-brand">Школа лингвистики НИУ ВШЭ</a> 
+				</div> 
+				<nav class="collapse navbar-collapse" id="bs-navbar"> 
+					<ul class="nav navbar-nav navbar-right"> 
+						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2021/index.html">Страница курса</a> </li> 
+						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2021/latin_2.html">Страница группы</a> </li> 
+					</ul>
+				</nav> 
+			</div>
+		</nav>
+
+<!-- начинается шапка. у тега header есть атрибут style, который задает цвет фона и отступы. поменяйте значения атрибутов и посмотрите, как изменится страница -->
+
+		<header style="background-color:#0c1338; padding-top:70px; "> 
+			<div class="container"> 
+				<div class="row">
+					<div class="col-md-4">
+						<br><br>
+<!-- здесь и дальше нужно поменять весь содержательный текст, чтобы получилась ваша личная страница -->
+						<tt> <h1 style="color:white;"> <b> Зверева Дарья <b> </h1> 
+						<hr> <!-- это горизонтальная линия -->
+						<p style="color:white;">Hello! 你好! Grüß Gott! <br> Меня зовут Даша и вот, что вам стоит узнать обо мне</b></p> 
+					</div>
+					<div class="col-md-4">
+<!-- img - тег для вставки изображений. Мы использовали атрибут style, чтобы задать размер изображения и ширину рамки-->
+<!-- Измените URL на URL вашей фотографии, а также настройте размер изображения -->
+<img src="https://github.com/dariazvereva10/lingdata/blob/main/mywebpage/IMG_6240.jpg?raw=true" alt="Фотография 1" height="180">
+    <img src="https://github.com/dariazvereva10/lingdata/blob/main/mywebpage/IMG_9968%202.jpg?raw=true" alt="Фотография 2" height="180" >
+    <img src="https://github.com/dariazvereva10/lingdata/blob/main/mywebpage/IMG_9609.jpg?raw=true" alt="Фотография 3" height="180" >
+    <img src="https://github.com/dariazvereva10/lingdata/blob/main/mywebpage/IMG_1469%202.jpg?raw=true" alt="Фотография 4" height="180" >
+					</div>
+				</div>
+			</div>
+
+
+		</header>
+
+<!-- часть страницы, которая под шапкой -->
+		<section id="portfolio">
+			<div class="container">
+
+<!-- атрибут col-md-... говорит, что контент будет разделен на несколько столбцов, их ширина соотносится как 3 - 6 - 3 (Bootstrap использует воображаемую сетку из 12 равных по ширине колонок) -->
+				<div class="col-md-3">
+
+<!-- <article> не влияет на оформление, но помогает структурировать контент на осмысленые разделы -->
+					<article>
+						<h3>Место учебы</h3>
+						<p>Фундаментальная и прикладная лингвистика, НИУ ВШЭ, Москва</p>
+					</article>
+					<article>
+						<h3>Родной город</h3>
+						<p>Лесной, Свердловская область</p>
+					</article>
+					<article>
+						<h3>Школа</h3>
+<!-- когда будете менять текст, не используйте бюрократических слов типа ГБОУ СОШ, ну пожаалуйста -->
+						<p>МАОУ "Лицей"</p>
+					</article>
+				</div>
+
+<br>
+<br>
+<br>
+		так прошли мои первые недели на ФиКЛе
+
+
+<marquee behavior="alternate" direction="left"><img src="https://github.com/dariazvereva10/lingdata/blob/main/mywebpage/IMG_1566.jpg?raw=true" height="195"/>
+<img src="https://github.com/dariazvereva10/lingdata/blob/main/mywebpage/IMG_1348.jpg?raw=true"height="195" />
+<img src="https://github.com/dariazvereva10/lingdata/blob/main/mywebpage/IMG_1319.jpg?raw=true"height="195" />
+<img src="https://github.com/dariazvereva10/lingdata/blob/main/mywebpage/q.jpg?raw=true"height="195" />
+<img src="https://github.com/dariazvereva10/lingdata/blob/main/mywebpage/w.jpg?raw=true"height="195" />
+<img src="https://github.com/dariazvereva10/lingdata/blob/main/mywebpage/e.jpg?raw=true"height="195" />
+<img src="https://github.com/dariazvereva10/lingdata/blob/main/mywebpage/r.jpg?raw=true"height="195" />
+
+
+</marquee>
+
+
+
+
+
+
+
+				<div class="col-md-6">
+					<article>
+						<h3>топ-5 фактов обо мне&#128526;</h3>
+						<p><ol>
+						<li>я занимаюсь стрит-артом <br></li>
+						<li>я абсолютный победитель большой перемены<br>
+						знаю все о softskills <br></li>
+						<li>меня можно узнать по 21 кольцу на руках <br></li>
+						<li> эксперт в текстах ОН ЮН и Noize MC<br></li>
+						<li> Артек - 3 смены<br>
+						Орленок - 1 смена <br>
+						Сириус - 1 смена <br>
+						Золотое сечение - 3 смены <br></li>
+						</ol></p>
+					</article>
+					<body bgcolor="#ffffff" onLoad=img_b()>
+
+
+<div class="portfolio-item">
+<div class="portfolio-item-wrap">
+<img src="https://github.com/dariazvereva10/lingdata/blob/main/mywebpage/FullSizeRender%202.jpg?raw=true" width="500">
+<img src="https://github.com/dariazvereva10/lingdata/blob/main/mywebpage/IMG_0532.jpg?raw=true" width="250">
+<img src="https://github.com/dariazvereva10/lingdata/blob/main/mywebpage/IMG_0869.jpg?raw=true"width="250">
+
+<div class="portfolio-item-inner">
+<div class="portfolio-heading">
+		
+		<br>
+<br>
+<br>
+до встречи на парах&#128139;
+<h3>контакты</h3>
+</div>
+<ul>
+<li><a href="https://t.me/dar10ka">тгк стрит-арт&#128526; </a></li>
+<li><a href="https://t.me/darintroaltj"> тг</a></li>
+<li><a href="https://vk.com/darintroaltj"> вк</a></li>
+</ul>
+</div>
+</a>
+</div>
+</div>
+
+				
+			</div>
+		</section>
+
+<!-- это подвал. В этой части страницы обычно ставят копирайт (с помощью символа &copy;) и пишут об истории создания страницы. Поставьте свой копирайт -->
+		<footer class="bs-docs-footer"> 
+			<div class="container"> 
+				<p style="text-align:right; ">&copy; Д.Зверева, 2024</p> 
+			</div>
+		</footer>
+	</body>
+</html>
